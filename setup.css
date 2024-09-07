@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'NorthcodersFont';
+  src: url('./northcodersfont/northcodersfont.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'NorthcodersFont', sans-serif;
+  background-color: whitesmoke
+}
+
+.title{
+color: rgb(235, 27, 36);
+/* margin-left: 30px; */
+/* text-align: center; */
+}
+
+.turkish-airlines{
+  width: 300px;
+  border-radius: 50px;
+  border-width: 10px;
+  border-color: black;
+  border-style: double;
+}
+
+.list{
+  color: blue;
+}
